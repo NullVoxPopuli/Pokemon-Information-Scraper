@@ -1,1 +1,9 @@
-This is a tool for scraping pokemon info off of http://bulbapedia.bulbagarden.net/wiki/Main_Page
+A couple of tools for scraping pokemon information, for whatever your needs are.
+
+Currently, the supported sites are
+
+http://bulbapedia.bulbagarden.net/wiki/Main_Page
+
+and
+
+http://pokemondb.net/
